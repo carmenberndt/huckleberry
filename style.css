@@ -39,7 +39,6 @@ strong {
 .card {
   width: fit-content;
   height: 312px;
-  margin-left: auto;
   background-color: hsl(0deg, 0%, 100%);
   padding-top: 8px;
   border-bottom: 8px solid hsl(0deg, 0%, 60%);
@@ -65,7 +64,7 @@ main {
   padding-block-start: 4.5em;
   padding-inline-start: 15em;
   padding-block-end: 58px;
-  width: 1200px;
+  width: fit-window;
 }
 
 /* Add styles here! */
